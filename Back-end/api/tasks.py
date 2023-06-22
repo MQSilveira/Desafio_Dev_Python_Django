@@ -13,10 +13,11 @@ def avaliar_proposta(proposta_id):
     proposta.situacao = 'Negada'
 
     # Para fins de teste, desenvolva um algoritmo onde metade das propostas serão negadas e metade serão aprovadas.
-    if choice([True, False]):
+    resultado = choice([True, False])
+    
+    if resultado:
         proposta.situacao = 'Aprovada'
     else:
         proposta.situacao = 'Negada'
 
     proposta.save()
-    

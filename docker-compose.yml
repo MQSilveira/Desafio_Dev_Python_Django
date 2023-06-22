@@ -56,7 +56,7 @@ services:
     restart: always
     command: celery -A sistema_gestao_propostas worker -l info
     volumes:
-      - ${CODE_PATH}:/code
+      - ./Back-end:/code
     environment:
       - CELERY_BROKER_URL=amqp://guest:guest@rabbitmq:5672//
     env_file:
