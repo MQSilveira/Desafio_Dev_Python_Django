@@ -51,7 +51,7 @@ ___
 Aqui estão algumas capturas de tela da aplicação:<br>
 
 #### Tela Principal da Aplicação:
-![Formulário](https://github.com/MQSilveira/Desafio_Dev_Python_Django/blob/main/Files/pagina_formulario.png)
+![Formulário](https://github.com/MQSilveira/Desafio_Dev_Python_Django/blob/main/Files/pagina_formulario_em_branco.png)
 
 #### API via "endponit" /api/v1/propostas/:
 ![API Propostas](https://github.com/MQSilveira/Desafio_Dev_Python_Django/blob/main/Files/enrececo_propostas.png)
