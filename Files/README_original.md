@@ -55,7 +55,7 @@ Consideramos que o prazo ideal para entrega desse desafio é de 1 semana, mas ca
 
 ## Como devo enviar o código feito?
 
-Para enviar o desafio, por favor nos envie o link de seu github no e-mail code-challenge@digitalsys.com.br.
+Para enviar o desafio, por favor nos envie o link de seu github no e-mail @.
 
 ### Boa sorte =) 
 
