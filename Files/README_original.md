@@ -51,7 +51,7 @@ Para a entrega do projeto, certifique-se que tudo esteja em ambiente docker, pre
 
 ## Prazo para entrega do desafio
 
-Consideramos que o prazo ideal para entrega desse desafio é de 1 semana, mas caso precise de mais tempo, favor avisar através do e-mail code-challenge@digitalsys.com.br
+Consideramos que o prazo ideal para entrega desse desafio é de 1 semana, mas caso precise de mais tempo, favor avisar através do e-mail 0000
 
 ## Como devo enviar o código feito?
 
