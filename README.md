@@ -1,18 +1,4 @@
-# Desafio técnico para vaga Dev-Python/Django
-
-[Neste link você encontra a documentação que contém as orientações para a criação do desafio.](https://github.com/MQSilveira/Desafio_Dev_Python_Django/blob/main/Files/README_original.md)
-___
-
-> ## Sistema de Gestão de Propostas de Empréstimo Pessoal
-> Este é um desafio técnico para criar um sistema de gestão de propostas de empréstimo pessoal utilizando a seguinte stack:<br>
-> * Django<br>
-> * Django Rest Framework<br>
-> * Django Celery<br>
-
-**Django :** *Framework web em Python que facilita o desenvolvimento rápido e seguro de aplicações web, seguindo o padrão model-view-controller (MVC) e incluindo uma ORM para acesso ao banco de dados.*<br><br>
-**Django Rest Framework:** *Biblioteca poderosa para construção de APIs em Django, fornecendo recursos avançados de serialização, autenticação, autorização e muito mais.*<br><br>
-**Django Celery e RabbitMQ** *A biblioteca utiliza o Django Celery em conjunto com o RabbitMQ para executar tarefas em segundo plano (execução assíncrona), proporcionando escalabilidade e eficiência.*
-___
+# Sistema de Gestão de Propostas para Empréstimo Pessoal
 
 ## Estrutura do Projeto
 Este projeto é composto por duas partes principais: 
@@ -73,8 +59,24 @@ Aqui estão algumas capturas de tela da aplicação:<br>
 ![Inserir uma Proposta](https://github.com/MQSilveira/Desafio_Dev_Python_Django/blob/main/Files/admin_cadastro.png)
 ___
 
+## Sobre o desenvolvimento do Sistema
+
+[Neste link você encontra a documentação que contém as orientações para a criação do sistema.](https://github.com/MQSilveira/Desafio_Dev_Python_Django/blob/main/Files/README_original.md)
+___
+
+> ## Sistema de Gestão de Propostas de Empréstimo Pessoal
+> Este é um desafio técnico para criar um sistema de gestão de propostas de empréstimo pessoal utilizando a seguinte stack:<br>
+> * Django<br>
+> * Django Rest Framework<br>
+> * Django Celery<br>
+
+**Django :** *Framework web em Python que facilita o desenvolvimento rápido e seguro de aplicações web, seguindo o padrão model-view-controller (MVC) e incluindo uma ORM para acesso ao banco de dados.*<br><br>
+**Django Rest Framework:** *Biblioteca poderosa para construção de APIs em Django, fornecendo recursos avançados de serialização, autenticação, autorização e muito mais.*<br><br>
+**Django Celery e RabbitMQ** *A biblioteca utiliza o Django Celery em conjunto com o RabbitMQ para executar tarefas em segundo plano (execução assíncrona), proporcionando escalabilidade e eficiência.*
+___
+
 ## Tempo de Desenvolvimento
-O desafio foi recebido em: 16/06/22 (sexta-feira)
+O sistema foi recebido em: 16/06/22 (sexta-feira)
 Prazo estabelecido: 7 dias
 
 Durante o período de desenvolvimento, foram realizadas as seguintes etapas:
@@ -83,7 +85,7 @@ Durante o período de desenvolvimento, foram realizadas as seguintes etapas:
 - 19/06/22 a 21/06/22: Construção do código do projeto, implementação das funcionalidades e testes.
 - 22/06/22: Realização de pequenos ajustes e melhorias no projeto.
 
-Foi dedicado um tempo total de 7 dias para a conclusão do desafio, incluindo o estudo das tecnologias e a construção do código.
+Foi dedicado um tempo total de 7 dias para a conclusão do sistema, incluindo o estudo das tecnologias e a construção do código.
 ___
 
 ## Desenvolvido por
