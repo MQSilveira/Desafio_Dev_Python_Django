@@ -94,6 +94,6 @@ Este projeto foi desenvolvido por:
 - **Nome do Desenvolvedor:** [Marcos Silveira](https://github.com/MQSilveira)
 - **Contato:** marcosilveira.lg@gmail.com
 
-Você também pode encontrar mais informações sobre o desenvolvedor acessando esse [LINK](https://mqsilveira.github.io/pagina_links/) ou [LinkedIn](https://www.linkedin.com/in/dev-marcos-silveira/)
+Você também pode encontrar mais informações sobre o desenvolvedor acessando esse [LINK](https://mqsilveira.github.io/Portfolio/) ou [LinkedIn](https://www.linkedin.com/in/dev-marcos-silveira/)
 
 
